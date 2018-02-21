@@ -1,4 +1,4 @@
-# emailjavapp
+# email java app
 
 Simple program
 Asks for first and last name
